@@ -1,3 +1,15 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Techreport">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11195</md:content-id>  <md:title>Involvement of Banking in the Commonwealth of Independent States</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>c64e29d0-890c-40aa-9cf2-f16ad8780e61</md:uuid>
-<md:slug>involvement-of-banking-in-the-commonwealth-of-independent-states</md:slug>
-</metadata>  <col:content>          <col:module document="m34191"/>                            <col:module document="m34192"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Techreport" authors="Valentin Antonovich Kotov ,Saydullo Abdullaev">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11195</md:content-id>
+    <md:title>Involvement of Banking in the Commonwealth of Independent States</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>c64e29d0-890c-40aa-9cf2-f16ad8780e61</md:uuid>
+    <md:slug>involvement-of-banking-in-the-commonwealth-of-independent-states</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m34191"/>
+    <col:module document="m34192"/>
+  </col:content>
+</col:collection>
